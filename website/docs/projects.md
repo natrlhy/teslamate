@@ -69,11 +69,11 @@ LINK: [https://github.com/alandtse/tesla](https://github.com/alandtse/tesla)
 
 LINK: [Wiki How-To](https://github.com/alandtse/tesla/wiki/Teslamate-MQTT-Integration)
 
-## [Tesla-YouQ](https://github.com/brchri/tesla-youq)
+## [Tesla-GeoGDO](https://github.com/brchri/tesla-geogdo)
 
-A lightweight app that will operate your MyQ connected garage doors based on the location of your Tesla vehicles, automatically closing when you leave, and opening when you return. Supports multiple geofence types including circular, TeslaMate, and polygonal. Supports multiple vehicles and MyQ devices.
+A lightweight app that will operate your smart Garage Door Openers (GDOs) based on the location of your Tesla vehicles, automatically closing when you leave, and opening when you return. Supports multiple vehicles, geofence types, and smart GDO devices.
 
-LINK: [https://github.com/brchri/tesla-youq](https://github.com/brchri/tesla-youq)
+LINK: [https://github.com/brchri/tesla-geogdo](https://github.com/brchri/tesla-geogdo)
 
 ## [TeslaBox](https://www.teslarpi.com)
 
